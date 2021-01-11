@@ -24,7 +24,7 @@ Rural areas also have the smallest number of drivers while simultaneously having
 
 ## Summary and Recommendations
 
-![deliverable_2_annotated_chart.png](Resources/deliverable_2_annotated_chart.png) 
+![deliverable_2_annotated_chart.png](Resources/Resources/deliverable_2_annotated_chart.png) 
 
 As can be seen in the chart above, there appears to be a spike in ridership across rural, suburban, and urban rides in late February. As we look at adapting to seasonal shifts in demand, it may make sense to capitalize on this existing increase in ridership. For example, we may consider pushing discount codes to users' phones at the same time in late February this year. 
 
