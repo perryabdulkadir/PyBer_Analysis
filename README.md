@@ -25,6 +25,7 @@ Rural areas also have the smallest number of drivers while simultaneously having
 ## Summary and Recommendations
 
 ![deliverable_2_annotated_chart.png](Resources/deliverable_2_annotated_chart.png) 
+
 As can be seen in the chart above, there appears to be a spike in ridership across rural, suburban, and urban rides in late February. As we look at adapting to seasonal shifts in demand, it may make sense to capitalize on this existing increase in ridership. For example, we may consider pushing discount codes to users' phones at the same time in late February this year. 
 
 I also recommend looking into increasing ridership in rural areas. Currently, rural riders represent a small fraction of our ridership. While this may be due to population density, it's also possible there is a demand for rides in rural areas that we are not meeting due to insufficient drivers. On a per ride basis and a per driver basis, rural rides are the most profitable. (It's possible the relatively high prices of fares may be to to rural rides being longer on average due to lower population density.) Based on the potential untapped market in rural areas and its high likelihood of profit, it is worth investigating increased advertising to rural areas and recruit additional drivers in rural areas. 
