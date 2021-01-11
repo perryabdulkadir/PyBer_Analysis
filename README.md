@@ -5,7 +5,7 @@ Columbia Data Science Module 5
 V. Isualize has assigned Omar and me to create a summary dataframe of ride share data broken down by rural, suburban, and urban rides. Additionally, we created a line graph to displa total weekly fares for rural, suburban, and urban rides for the period between January 1st, 2019 and April 29th, 2019. 
 
 ## Results
-![deliverable_1_summary_table.PNG](Resources/Resources/deliverable_1_summary_table.PNG) 
+![deliverable_1_summary_table.PNG](Resources/deliverable_1_summary_table.PNG) 
 
 ### Total Rides
 As might be expected based on population density, urban rides were most common, representing 1,625 of all rides. Suburban rides were next most common with 625 rides, and rural reides were the least common, with 125 rides. 
@@ -24,7 +24,7 @@ Rural areas also have the smallest number of drivers while simultaneously having
 
 ## Summary and Recommendations
 
-![deliverable_2_annotated_chart.png](Resources/Resources/deliverable_2_annotated_chart.png) 
+![deliverable_2_annotated_chart.png](Resources/deliverable_2_annotated_chart.png) 
 
 As can be seen in the chart above, there appears to be a spike in ridership across rural, suburban, and urban rides in late February. As we look at adapting to seasonal shifts in demand, it may make sense to capitalize on this existing increase in ridership. For example, we may consider pushing discount codes to users' phones at the same time in late February this year. 
 
