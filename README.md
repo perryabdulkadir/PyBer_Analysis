@@ -6,6 +6,7 @@ V. Isualize has assigned Omar and me to create a summary data frame of ride shar
 
 ## Resources
 Software: Python 3.8.6, Jupyter Notebook
+Python packages: pandas, numpy
 
 ## Results
 ![deliverable_1_summary_table.PNG](Resources/deliverable_1_summary_table.PNG) 
